@@ -6,7 +6,8 @@ Building a Responsive Portfolio Page in Flutter Web
 Screenshots<br>
 
 <p float="left">
-  <img src="ss.png"/>
+  <img src="https://media.giphy.com/media/fq8JGMbVnkfWLQpWLU/giphy.gif"  width="400"/>
+  <img src="https://github.com/AliAnilKocak/Flutter-Web-Portfolio/blob/master/ss.PNG" width="400"/>
 </p>
 
 <br>
@@ -15,9 +16,9 @@ If you found this project useful, then please consider giving it a :star:  :hear
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter Web application.
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started if this is your first Flutter Web project:
 
 - [Lab: Write your first Flutter Web app](https://flutter.dev/web)
 
